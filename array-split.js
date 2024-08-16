@@ -1,4 +1,5 @@
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+const numbers2 = [3, 4, 5, 6, 7, 8, 9, 11, 2, 233, 45];
 
 const part1 = numbers.slice(2, 6);
 console.log(part1);
